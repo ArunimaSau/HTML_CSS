@@ -1,3 +1,3 @@
-This is a beginner level personal profile page built on basic css and HTML properties.
+This is a beginner level web pages built on basic css and HTML properties.
 
 # HTML_CSS
